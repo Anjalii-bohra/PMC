@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<!DOCTYPE employees SYSTEM "C:\Users\hp\IdeaProjects\PMC_Java\src\Topics\XML\employees.dtd">
+<employees>
+    <employee>
+        <empId>1</empId>
+        <empName>John Doe</empName>
+        <salary>50000</salary>
+    </employee>
+</employees>

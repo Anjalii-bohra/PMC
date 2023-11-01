@@ -1,0 +1,39 @@
+# Scalars
+string_example: This is a string
+integer_example: 42
+float_example: 3.14159
+boolean_example: true
+null_example: null
+
+# Lists (Arrays)
+fruits:
+  - apple
+  - banana
+  - cherry
+
+colors:
+  - red
+  - green
+  - blue
+
+# Nested Objects (Mapping)
+person:
+  first_name: John
+  last_name: Doe
+  age: 30
+  address:
+    street: 123 Main Street
+    city: Anytown
+    state: CA
+    postal_code: '12345'  # Using single quotes to preserve the leading zero
+
+# Booleans and Null
+is_student: false
+has_job: true
+no_data: null
+
+# Multi-line CoreJAVA.String
+description: |
+  This is a multi-line string in YAML.
+  It can span multiple lines and preserve line breaks.
+  Just like this!

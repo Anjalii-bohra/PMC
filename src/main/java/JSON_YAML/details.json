@@ -1,0 +1,55 @@
+{
+  "person": {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 28,
+    "contact": {
+      "email": "alice@example.com",
+      "phone": "123-456-7890"
+    },
+    "address": {
+      "street": "456 Elm Street",
+      "city": "Sometown",
+      "state": "NY",
+      "postalCode": "54321"
+    },
+    "hobbies": ["Painting", "Traveling"],
+    "isStudent": false
+  },
+  "friends": [
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "age": 30,
+      "contact": {
+        "email": "bob@example.com",
+        "phone": "987-654-3210"
+      },
+      "address": {
+        "street": "789 Oak Avenue",
+        "city": "AnotherTown",
+        "state": "CA",
+        "postalCode": "98765"
+      },
+      "hobbies": ["Gardening", "Photography"],
+      "isStudent": true
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "age": 25,
+      "contact": {
+        "email": "charlie@example.com",
+        "phone": "555-555-5555"
+      },
+      "address": {
+        "street": "101 Pine Road",
+        "city": "YetAnotherTown",
+        "state": "TX",
+        "postalCode": "54321"
+      },
+      "hobbies": ["Reading", "Running"],
+      "isStudent": false
+    }
+  ]
+}

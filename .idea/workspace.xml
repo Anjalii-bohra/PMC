@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/GsonExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/staff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson2/GsonExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/GsonBasicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JSON_YAML/details.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JSON_YAML/scratch.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lombok/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lombok/Lombokk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/AddArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/FinalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/MultiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/ReflexionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/Breakk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForeachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/BufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ConsoleIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/FormattedOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ScannerIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/InstanceOfOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/CopyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBufferClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBuilderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionsSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringJoinerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringTokenizerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SQL/my_sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SQL/plsql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/ObjectToXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/XMLToObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/BusinessLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/StudentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestStudentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/JunitTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestJUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XYvnJK2Kmc0cKug5E8yTQ87Hrs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="" />
+      <created>1698818993294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698818993294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+{
+  "name": "pmc",
+  "age": 35,
+  "position": [
+    "Founder",
+    "CTO",
+    "Writer"
+  ],
+  "skills": [
+    "java",
+    "python",
+    "node",
+    "kotlin"
+  ]
+}
