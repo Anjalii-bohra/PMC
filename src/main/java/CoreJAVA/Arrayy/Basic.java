@@ -1,6 +1,7 @@
 package CoreJAVA.Arrayy;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class Basic {
         public static void main(String[] args) {
@@ -24,7 +25,7 @@ public class Basic {
             System.out.println("Modified element at index 2: " + numbers[2]);
 
             // To convert the numbers1 as List
-            System.out.println("Integer Array as List: "+ Arrays.asList(numbers));
+            System.out.println("Integer Array as List: "+ List.of(numbers));
 
             //To sort thr Array
             Arrays.sort(numbers);
@@ -34,7 +35,7 @@ public class Basic {
             // Print the key and corresponding index
             System.out.println(key + " found at index = " + Arrays.binarySearch(numbers, key));
 
-            int numbers1 [] = {23,76,5,88,34,678};
+            int[] numbers1 = {23,76,5,88,34,678};
             // To compare both arrays
             System.out.println("Integer Arrays on comparison: " + Arrays.compare(numbers, numbers1));
 

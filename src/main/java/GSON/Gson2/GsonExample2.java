@@ -1,8 +1,9 @@
-package org.example.Gson2;
+package GSON.Gson2;
 
+import GSON.Gson1.Staff;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import org.example.Gson1.Staff;
+
 
 import java.io.FileReader;
 import java.io.IOException;

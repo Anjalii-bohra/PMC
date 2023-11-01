@@ -1,5 +1,7 @@
 package Lombok;
 
+import lombok.*;
+
 @Data
 @Builder
 @NoArgsConstructor

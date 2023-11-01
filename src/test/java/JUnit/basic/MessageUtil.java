@@ -1,4 +1,4 @@
-package org.example.basic;
+package JUnit.basic;
 
 public class MessageUtil {
 

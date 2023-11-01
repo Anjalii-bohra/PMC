@@ -1,4 +1,4 @@
-package org.example.Student;
+package JUnit.Student;
 
 import org.junit.Test;
 

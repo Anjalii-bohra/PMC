@@ -1,4 +1,4 @@
-package org.example.Student;
+package JUnit.Student;
 
 public class StudentDetails {
     private String name;

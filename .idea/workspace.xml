@@ -5,71 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/GsonExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/staff.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson2/GsonExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GSON/GsonBasicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSON_YAML/details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSON_YAML/scratch.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lombok/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lombok/Lombokk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/AddArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/FinalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/JaggedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/MultiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/ReflexionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/Breakk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForeachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/BufferReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/CommandLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ConsoleIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/FormattedOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ScannerIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/InstanceOfOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/CopyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBufferClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBuilderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionsSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringJoinerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringTokenizerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SQL/my_sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SQL/plsql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/ObjectToXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/XMLToObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XML/employees.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/BusinessLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/StudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestStudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/JunitTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/MessageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestJUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Books" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChatGPT_Topics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDP/SingleResponsibility/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/MathApplicationTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/stock/Portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/stock/PortfolioTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/stock/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mockito/stock/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GSON/Gson1/GsonExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/GsonExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GSON/Gson1/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson1/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GSON/Gson2/GsonExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GSON/Gson2/GsonExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GSON/GsonBasicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GSON/GsonBasicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lombok/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lombok/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/AddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/AddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/FinalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/FinalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/JaggedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/JaggedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/MultiArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/Arrayy/ReflexionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/Arrayy/ReflexionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/Breakk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/Breakk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/ForeachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/ForeachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/FlowControl/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/IOJava/BufferReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/IOJava/CommandLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ConsoleIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/IOJava/ConsoleIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/FormattedOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/IOJava/FormattedOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/IOJava/ScannerIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/IOJava/ScannerIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/JavaBasics/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/InstanceOfOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/JavaBasics/InstanceOfOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/JavaBasics/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/JavaBasics/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/CopyConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/CopyConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/OOPs/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBufferClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/String/StringBufferClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringBuilderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/String/StringBuilderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/String/StringFunctionSet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringFunctionsSet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/String/StringFunctionsSet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringJoinerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PMC_java/String/StringTokenizerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/String/StringTokenizerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XML/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XML/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XML/ObjectToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XML/ObjectToXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XML/XMLToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XML/XMLToObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/Student/BusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/BusinessLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/Student/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/StudentDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestStudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/Student/TestStudentDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/JunitTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/JunitTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestJunit3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/api/TestRunner3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/basic/MessageUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/MessageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnit/basic/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +101,54 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CompositionOverInheritance">
+    <configuration name="CompositionOverInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDP.CompositionOverInheritance.CompositionOverInheritance" />
+      <module name="PMC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDP.CompositionOverInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTestSuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUnit.api.JunitTestSuite" />
+      <module name="PMC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnit.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XML.ObjectToXML" />
+      <module name="PMC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompositionOverInheritance" />
+        <item itemvalue="Application.ObjectToXML" />
+        <item itemvalue="Application.JunitTestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,9 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698818993294</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1698820521533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698820521533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

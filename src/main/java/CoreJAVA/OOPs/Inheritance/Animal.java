@@ -26,3 +26,10 @@ class Bird extends Animal {
 class Sparrow extends Bird {
     void fly(){ System.out.println("Sparrow flys as well as eats");}
 }
+
+class Main{
+    public static void main(String[] args) {
+
+
+    }
+}

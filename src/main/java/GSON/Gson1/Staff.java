@@ -1,4 +1,4 @@
-package org.example.Gson1;
+package GSON.Gson1;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

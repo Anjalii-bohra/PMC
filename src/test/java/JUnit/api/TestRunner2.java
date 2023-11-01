@@ -1,5 +1,6 @@
-package org.example.api;
+package JUnit.api;
 
+import JUnit.api.TestJunit2;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;

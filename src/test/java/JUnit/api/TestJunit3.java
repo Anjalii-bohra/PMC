@@ -1,4 +1,4 @@
-package org.example.api;
+package JUnit.api;
 
 import org.junit.Test;
 import junit.framework.AssertionFailedError;

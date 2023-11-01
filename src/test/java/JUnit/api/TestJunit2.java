@@ -1,4 +1,4 @@
-package org.example.api;
+package JUnit.api;
 
 import junit.framework.TestCase;
 import org.junit.Before;
