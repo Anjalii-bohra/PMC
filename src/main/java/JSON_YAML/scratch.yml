@@ -22,7 +22,7 @@ person:
   last_name: Doe
   age: 30
   address:
-    street: 123 Main Street
+    street: 123 SingleInhertance Street
     city: Anytown
     state: CA
     postal_code: '12345'  # Using single quotes to preserve the leading zero

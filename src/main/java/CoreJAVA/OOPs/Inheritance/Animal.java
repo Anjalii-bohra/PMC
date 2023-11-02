@@ -24,12 +24,17 @@ class Bird extends Animal {
 
 // Multilevel Inheritance: A class extends Birds
 class Sparrow extends Bird {
+    @Override
     void fly(){ System.out.println("Sparrow flys as well as eats");}
 }
 
 class Main{
     public static void main(String[] args) {
-
-
+        Sparrow s1 = new Sparrow();
+        s1.fly();
+        Bird b1 = (Bird) new Animal();
+        b1.fly();
+        Dog d = new Dog();
+        d.eat();
     }
 }

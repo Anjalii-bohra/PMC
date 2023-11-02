@@ -2,7 +2,7 @@ package CoreJAVA.FlowControl;
 
 public class Breakk {
 
-        // Main driver method
+        // SingleInhertance driver method
         public static void main(String[] args)
         {
             // Using do-While loop
