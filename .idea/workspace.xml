@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Abstraction/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Encapsulation/MainD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Encapsulation/MainE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Inheritance/SingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Polymorphism/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Puzzle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/BeanUtilsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/CollectionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/FileUtilsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/StringUtilsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/SortedArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/Breakk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/FlowControl/Breakk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/CopyConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoreJAVA/OOPs/Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JSON_YAML/scratch.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JSON_YAML/scratch.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MethodOverloading">
+}</component>
+  <component name="RunManager" selected="Application.LinkedList">
     <configuration name="CompositionOverInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SDP.CompositionOverInheritance.CompositionOverInheritance" />
       <module name="PMC" />
@@ -81,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJAVA.OOPs.Polymorphism.MethodOverloading" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.LinkedList" />
       <module name="PMC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJAVA.OOPs.Polymorphism.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectToXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XML.ObjectToXML" />
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJAVA.OOPs.Polymorphism.MethodOverloading" />
       <module name="PMC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XML.*" />
+          <option name="PATTERN" value="CoreJAVA.OOPs.Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.MethodOverloading" />
         <item itemvalue="Application.SingleInheritance" />
         <item itemvalue="Application.Constructor" />
         <item itemvalue="Application.CompositionOverInheritance" />
-        <item itemvalue="Application.ObjectToXML" />
       </list>
     </recent_temporary>
   </component>
