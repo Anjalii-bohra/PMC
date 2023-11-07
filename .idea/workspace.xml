@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/BeanUtilsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/CollectionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/FileUtilsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/MathExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApacheCommons/StringUtilsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/AnagramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/SortedArrayOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/anagram.java" afterDir="false" />
+    <list default="true" id="276053cb-c3cb-492f-8dae-ee117f520a5b" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSA/StackExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698833376827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1699302591666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699302591666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
